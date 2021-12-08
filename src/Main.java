@@ -35,11 +35,6 @@ public class Main {
                 }
             }
         }
-//        System.out.println("stepouto " + letter+ " : ");
-//        for (int r:res){
-//            System.out.print(r);
-//        }
-//        System.out.println();
         return res;
     }
 
